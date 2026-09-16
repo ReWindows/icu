@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "icu.DLL",
+  "latest": "1164561788-94451369D782EA5D26A5A3501C131722-1",
+  "builds": [
+    {
+      "key": "1164561788-94451369D782EA5D26A5A3501C131722-1",
+      "timestamp": "1164561788",
+      "pdb_guid": "94451369D782EA5D26A5A3501C131722",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1164561788-94451369D782EA5D26A5A3501C131722-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
